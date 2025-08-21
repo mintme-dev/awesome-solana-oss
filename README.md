@@ -142,6 +142,8 @@ Projects related to SPL, Token 2022, and the various NFT standards
 | McBurnJS               | [McDegensDAO](https://twitter.com/McDegensDAO)                                      | Yes                  | <a href="https://github.com/McDegens-DAO/mcburn-js/" target="_blank">View</a>              |
 | cNFT Spam Filter       | [Solarnius](https://twitter.com/solarnius)                                          | Yes                  | <a href="https://github.com/filtoor/cnft-spam-filter" target="_blank">View</a>             |
 | Underdog SDK           | [Underdog](https://twitter.com/backanunderdog)                                      | No                   | <a href="https://github.com/UnderdogProtocol/js" target="_blank">View</a>                  |
+| MintMe                 | [Mintme](https://x.com/mintme_dev)                                                  | Yes                  | <a href="https://github.com/mintme-dev/mintme-widget" target="_blank">View</a>             |
+
 
 <br>
 
